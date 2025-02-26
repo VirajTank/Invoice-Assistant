@@ -1,0 +1,37 @@
+{
+    "Supplier": {
+        "Name": "MCNROE CONSUMER PRODUCTS PRIVATE LIMITED",
+        "Address": "Khasra no 912, Sec 52 A Village Wazirabad GURUGRAM, HARYANA, 122003 IN",
+        "PAN Number": "AABCM5674J",
+        "GST Number": "06AABCM5674J1Z8",
+        "Contact": null
+    },
+    "ReceiptDetails": {
+        "Billing Address": "Viraj Tank E/6, Sastrinagar RAJKOT, GUJARAT, 360004 IN",
+        "Shipping Address": "Viraj Tank Viraj Tank E-34, oppo Krishna girls hostel, beside Sudarshan dairy, kishan samosa, vaniyavad Nadiad, GUJARAT, 387001 IN",
+        "Invoice Number": "IN-11768",
+        "Date": "2024-10-02",
+        "Time": "22:44:05"
+    },
+    "Items": [
+        {
+            "ItemName": "Wild Stone Edge Parfum for Men, Long Lasting Refreshing Every day Wear Fragrance, 100 ml|Premium Perfume | Gift for Husband | B08TGSRW1S (n-8904006306604)",
+            "Quantity": 1,
+            "Unit Price": "236.44",
+            "TotalPrice": "236.44"
+        }
+    ],
+    "Payment Details": {
+        "Payment Method": "Debit Card",
+        "Currency": "Indian Rupee",
+        "Total Amount": "279.00",
+        "Taxes": "42.56",
+        "Discounts": null
+    },
+    "Tax calculation": {
+        "Taxable Amount": "236.44",
+        "Tax Rate": "18%",
+        "Tax Type": "IGST",
+        "Tax Amount": "42.56"
+    }
+}

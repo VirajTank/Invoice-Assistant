@@ -1,0 +1,50 @@
+{
+    "Supplier": {
+        "Name": "East Repair Inc.",
+        "Address": "1912 Harvest Lane\nNew York, NY 12210",
+        "Contact": null,
+        "PAN Number": null,
+        "GST Number": null
+    },
+    "ReceiptDetails": {
+        "Billing Address": "John Smith\n2 Court Square\nNew York, NY 12210",
+        "Shipping Address": "John Smith\n3787 Pineview Drive\nCambridge, MA 12210",
+        "Invoice Number": "US-001",
+        "Date": "2019-11-02",
+        "Time": null,
+        "P.O Number": "2312/2019",
+        "Due Date": "2019-02-26"
+    },
+    "Items": [
+        {
+            "ItemName": "Front and rear brake cables",
+            "Quantity": 1,
+            "Unit Price": "100.00",
+            "Total Price": "100.00"
+        },
+        {
+            "ItemName": "New set of pedal arms",
+            "Quantity": 2,
+            "Unit Price": "15.00",
+            "Total Price": "30.00"
+        },
+        {
+            "ItemName": "Labor 3hrs",
+            "Quantity": 3,
+            "Unit Price": "5.00",
+            "Total Price": "15.00"
+        }
+    ],
+    "Payment Details": {
+        "Payment Method": null,
+        "Currency": "US Dollar",
+        "Total Amount": "154.06",
+        "Taxes": "9.06",
+        "Discounts": null
+    },
+    "Tax calculation": {
+        "Tax Rate": "6.25%",
+        "Taxable Amount": "145.00",
+        "Calculated Tax": "9.06"
+    }
+}

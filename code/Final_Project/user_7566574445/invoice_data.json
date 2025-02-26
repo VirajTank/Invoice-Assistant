@@ -1,0 +1,36 @@
+{
+    "Supplier": {
+        "Name": "CLICKTECH RETAIL PRIVATE LIMITED",
+        "Address": "*Plot no. 120 X and part portion of plot no. 119 W2, Gallops Industrial Park 1, Village Rajoda, Taluka Bavla, District Ahmedabad Ahmedabad, GUJARAT, 382220 IN",
+        "PAN Number": "AAJCC9783E",
+        "GST Number": "24AAJCC9783E1ZD",
+        "Contact": null
+    },
+    "ReceiptDetails": {
+        "Billing Address": "Viraj TankE/6, SastrinagarRAJKOT, GUJARAT, 360004IN",
+        "Shipping Address": "Viraj TankViraj TankE/6, SastrinagarRAJKOT, GUJARAT, 360004IN",
+        "Invoice Number": "AMD2-911128",
+        "Date": "2024-09-26",
+        "Time": "15:28:29"
+    },
+    "Items": [
+        {
+            "ItemName": "Amazfit Active Edge 46mm Smart Watch, Built in GPS, Ultra-Long 16-Day Battery Life, 10 ATM Water Resistance, for iOS and Android, Accurate Readings, Train Smarter with Zepp Coach \u2122 (Midnight Pulse) | B0CR3PNLSB (B0CR3PNLSB) HSN:85176290",
+            "Quantity": 1,
+            "Unit Price": "5931.36",
+            "TotalPrice": "6499.00"
+        }
+    ],
+    "Payment Details": {
+        "Payment Method": "Debit Card",
+        "Currency": "Indian Rupee",
+        "Total Amount": "6499.00",
+        "Taxes": "991.37",
+        "Discounts": "423.73"
+    },
+    "Tax calculation": {
+        "CGST": "495.68",
+        "SGST": "495.69",
+        "Total Tax": "991.37"
+    }
+}

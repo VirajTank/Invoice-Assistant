@@ -1,0 +1,37 @@
+{
+    "Supplier": {
+        "Name": "Amazon.in",
+        "Address": null,
+        "PAN Number": null,
+        "GST Number": null,
+        "Contact": null
+    },
+    "ReceiptDetails": {
+        "Billing Address": "Viraj Tank\nE/6\nSastrinagar\nRAJKOT, GUJARAT 360004\nIndia",
+        "Shipping Address": "Viraj Tank\nE/6\nSastrinagar\nRAJKOT, GUJARAT 360004\nIndia",
+        "Invoice Number": "404-0944623-8329157",
+        "Date": "2024-09-27",
+        "Time": "12:25 PM"
+    },
+    "Items": [
+        {
+            "ItemName": "Amazfit Active Edge 46mm Smart Watch, Built in GPS, Ultra-Long 16-Day Battery Life, 10 ATM Water Resistance, for iOS and Android, Accurate Readings, Train Smarter with Zepp Coach™ (Midnight Pulse)",
+            "Quantity": 1,
+            "Unit Price": "6999.00",
+            "TotalPrice": "6999.00"
+        }
+    ],
+    "Payment Details": {
+        "PaymentMethod": "RuPay",
+        "Currency": "Indian Rupee",
+        "Total Amount": "5849.10",
+        "Taxes": "0.00",
+        "Discounts": "1149.90"
+    },
+    "Tax calculation": {
+        "TaxableAmount": "6999.00",
+        "TotalTax": "0.00",
+        "Discount": "1149.90",
+        "FinalTotal": "5849.10"
+    }
+}

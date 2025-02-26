@@ -1,0 +1,88 @@
+{
+    "Supplier": {
+        "Name": "HOTEL AMER PALACE",
+        "Address": "Hoshangabad Road, Ratanpur, Bhopal-462046, Madhya Pradesh",
+        "GSTIN": "23AABFH6030L1ZN",
+        "TIN": "23894007031"
+    },
+    "ReceiptDetails": {
+        "Billing Address": null,
+        "Shipping Address": null,
+        "Invoice Number": "GRT1715",
+        "Date": "2021-07-24",
+        "Time": "15:14"
+    },
+    "Items": [
+        {
+            "ItemName": "VEG MANCHAW SO",
+            "Quantity": 1,
+            "Unit Price": "119.00",
+            "TotalPrice": "119.00"
+        },
+        {
+            "ItemName": "VEG SWEET CORN",
+            "Quantity": 1,
+            "Unit Price": "119.00",
+            "TotalPrice": "119.00"
+        },
+        {
+            "ItemName": "DAL TADKA",
+            "Quantity": 1,
+            "Unit Price": "215.00",
+            "TotalPrice": "215.00"
+        },
+        {
+            "ItemName": "JEERA RICE",
+            "Quantity": 1,
+            "Unit Price": "145.00",
+            "TotalPrice": "145.00"
+        },
+        {
+            "ItemName": "PLAIN PAPAD",
+            "Quantity": 2,
+            "Unit Price": "40.00",
+            "TotalPrice": "80.00"
+        },
+        {
+            "ItemName": "BAKED VEG WITH",
+            "Quantity": 1,
+            "Unit Price": "270.00",
+            "TotalPrice": "270.00"
+        },
+        {
+            "ItemName": "MUSHROOM MATTA",
+            "Quantity": 1,
+            "Unit Price": "265.00",
+            "TotalPrice": "265.00"
+        },
+        {
+            "ItemName": "BUTTER TANDOOR",
+            "Quantity": 1,
+            "Unit Price": "27.00",
+            "TotalPrice": "27.00"
+        },
+        {
+            "ItemName": "MISSI ROTI",
+            "Quantity": 1,
+            "Unit Price": "30.00",
+            "TotalPrice": "30.00"
+        },
+        {
+            "ItemName": "GARLIC NAAN",
+            "Quantity": 1,
+            "Unit Price": "45.00",
+            "TotalPrice": "45.00"
+        }
+    ],
+    "PaymentDetails": {
+        "PaymentMethod": null,
+        "Currency": "Indian Rupee",
+        "TotalAmount": "1381.00",
+        "Taxes": "65.76",
+        "Discounts": null
+    },
+    "TaxCalculation": {
+        "CGST": "32.88",
+        "SGST": "32.88"
+    }
+}
